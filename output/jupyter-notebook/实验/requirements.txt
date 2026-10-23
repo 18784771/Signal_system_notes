@@ -1,0 +1,9 @@
+# Python >=3.12,<3.14; recommended and validated: Python 3.13.9
+# Validated scientific stack; Jupyter tools use compatible major-version ranges.
+numpy==2.4.4
+scipy==1.18.1
+matplotlib==3.10.8
+jupyterlab>=4.4,<5
+ipykernel>=6.29,<8
+nbformat>=5.10,<6
+nbclient>=0.10,<1
